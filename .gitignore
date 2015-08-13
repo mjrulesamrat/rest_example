@@ -1,0 +1,12 @@
+# .gitignore for bragon
+
+### Python artifacts
+*.pyc
+
+### Editor and IDE artifacts
+.idea/
+
+### migration folder
+**/migrations
+
+db.sqlite3

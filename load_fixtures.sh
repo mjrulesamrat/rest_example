@@ -1,0 +1,1 @@
+python manage.py loaddata fixtures/adminuser.json --app auth.User

@@ -1,0 +1,7 @@
+To dump Adminuser data:
+============================
+python manage.py dumpdata auth.User --indent 4 > fixtures/adminuser.json
+
+To load Adminuser data:
+===========================
+python manage.py loaddata fixtures/adminuser.json --app auth.User

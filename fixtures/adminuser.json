@@ -1,0 +1,38 @@
+[
+{
+    "fields": {
+        "username": "mjrulesamrat@gmail.com",
+        "first_name": "Jay",
+        "last_name": "Modi",
+        "is_active": true,
+        "is_superuser": true,
+        "is_staff": true,
+        "last_login": "2015-08-13T16:56:39.237Z",
+        "groups": [],
+        "user_permissions": [],
+        "password": "pbkdf2_sha256$20000$SNHzRdoApGE8$d/7Bd4quQRS92KiHd+AQEWQTSwe6I5GQXzk3/dDdOSk=",
+        "email": "mjrulesamrat@gmail.com",
+        "date_joined": "2015-08-13T16:56:38.572Z"
+    },
+    "model": "auth.user",
+    "pk": 1
+},
+{
+    "fields": {
+        "username": "mjrulesamrat@outlook.com",
+        "first_name": "",
+        "last_name": "",
+        "is_active": true,
+        "is_superuser": false,
+        "is_staff": false,
+        "last_login": "2015-08-13T17:16:45.277Z",
+        "groups": [],
+        "user_permissions": [],
+        "password": "pbkdf2_sha256$20000$iwHhyUG319YU$ynOBi5QuAlUVR0wC2d08QI3AsVl8xtMbuzFMGPddw7c=",
+        "email": "mjrulesamrat@outlook.com",
+        "date_joined": "2015-08-13T17:16:44.500Z"
+    },
+    "model": "auth.user",
+    "pk": 2
+}
+]
